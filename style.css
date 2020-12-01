@@ -1,0 +1,16 @@
+body {
+  background-color: #262b31
+}
+
+p {
+  font-family: "arial";
+  color: #ffffff;
+}
+.antique{
+  font-family:"sans";
+  font-size: 50px;
+  color: #c2b9bc;
+  font-style:italic;
+  position: center;
+  
+}
